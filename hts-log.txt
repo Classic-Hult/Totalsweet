@@ -1,0 +1,31 @@
+HTTrack3.49-2 launched on Wed, 23 Nov 2022 08:52:17 at https://totalsweet.co.uk +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://totalsweet.co.uk -O "/Users/justice/websites/totalsweet" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:05:26	Warning: 	Retry after error -4 (No data (connection closed)) at link https://totalsweet.co.uk/news/243-national-nut-day (from https://totalsweet.co.uk/news/archive.php?page=16)
+09:10:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://code.createjs.com/createjs-2015.11.26.min.js
+09:10:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.google.com/recaptcha/api.js?render=6LcStukUAAAAADjFtZOvDEUidVtwAQCallQWmOf1
+09:10:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://totalsweet.co.uk/news/rss
+09:12:48	Warning: 	HTML file (17682 bytes) retransferred due to lack of cache: https://totalsweet.co.uk/total-sweet-the-environment
+09:12:49	Warning: 	HTML file (21625 bytes) retransferred due to lack of cache: https://totalsweet.co.uk/xylitol/index
+09:12:50	Warning: 	HTML file (26297 bytes) retransferred due to lack of cache: https://totalsweet.co.uk/xylitol/expert-opinion
+09:12:52	Warning: 	HTML file (88334 bytes) retransferred due to lack of cache: https://totalsweet.co.uk/recipes/snacks-treats/keto-macarons
+09:12:54	Warning: 	HTML file (85221 bytes) retransferred due to lack of cache: https://totalsweet.co.uk/recipes/desserts/drop-scones
+09:12:56	Warning: 	HTML file (84150 bytes) retransferred due to lack of cache: https://totalsweet.co.uk/recipes/snacks-treats/xylitol-meringue-kisses
+09:12:58	Warning: 	HTML file (84552 bytes) retransferred due to lack of cache: https://totalsweet.co.uk/recipes/snacks-treats/lemon-polenta-biscuits
+09:13:00	Warning: 	HTML file (20673 bytes) retransferred due to lack of cache: https://totalsweet.co.uk/news/414-balancing-glucose-levels
+09:13:02	Warning: 	HTML file (21520 bytes) retransferred due to lack of cache: https://totalsweet.co.uk/stockists/index
+09:13:08	Warning: 	HTML file (20603 bytes) retransferred due to lack of cache: https://totalsweet.co.uk/news/412-national-tree-week
+09:13:09	Warning: 	HTML file (14910 bytes) retransferred due to lack of cache: https://totalsweet.co.uk/nutritional-information-and-ingredients
+09:13:11	Warning: 	HTML file (19056 bytes) retransferred due to lack of cache: https://totalsweet.co.uk/news/372-congratulations
+09:13:12	Warning: 	HTML file (20199 bytes) retransferred due to lack of cache: https://totalsweet.co.uk/news/298-bbq-time
+09:13:14	Warning: 	Retry after error -4 (No data (connection closed)) at link https://totalsweet.co.uk/admin/resources/pumpkin-pic-w800.jpg (from https://totalsweet.co.uk/news/245-what-to-do-with-your-pumpkin-seeds)
+09:13:14	Warning: 	HTML file (18991 bytes) retransferred due to lack of cache: https://totalsweet.co.uk/news/220-keeping-cool
+09:13:15	Error: 	"Not Found" (404) at link https://totalsweet.co.uk/css/grabbing.png (from https://totalsweet.co.uk/css/main.css?v=1655394833)
+
+HTTrack Website Copier/3.49-2 mirror complete in 20 minutes 58 seconds : 1043 links scanned, 1056 files written (54155052 bytes overall) [42486133 bytes received at 33772 bytes/sec], 14461213 bytes transferred using HTTP compression in 424 files, ratio 16%, 22.8 requests per connection
+(1 errors, 19 warnings, 0 messages)

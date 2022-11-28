@@ -1,0 +1,5 @@
+# The TotalSweet
+#h
+# This file format is compatible with Netscape cookies
+totalsweet.co.uk - Clone	TRUE	/	FALSE	1999999999	PHPSESSID	583cc19ecac6d7d885f92f5ba4c3b15f
+
