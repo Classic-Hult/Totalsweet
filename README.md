@@ -1,5 +1,5 @@
 ## Totalsweet
-A Clone project- Total Sweet.co.uk webtsite - full functionality
+A Clone project- TotalSweet.com webtsite - full functionality
 
 
 # Total Sweet
@@ -9,5 +9,5 @@ To honnor the ones who dream big and are willing to get things done. An innovati
 - Open the project folder 'totalsweet'
 - Check out to your branch
 - Install [IDE](https://www.sublimetext.com/)
-- Run or Preview on Browseru
+- Run or Preview on Browser
 - Happy coding! 🤭
