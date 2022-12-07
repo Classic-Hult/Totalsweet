@@ -19,9 +19,14 @@
 <meta itemprop="description" content="Home of the Total Sweet Xylitol brand of natural sugar alternative">
 <!-- ./Schema.org -->
 
+
+
 <!-- Open Graph -->
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Total Sweet Xylitol" />
+
+
+
 
 
     <meta property="og:title" content="Total Sweet Xylitol" />
@@ -346,17 +351,20 @@
             
         </h1>
         <!--[if gte IE 9]><!-->
-        <canvas class="animation" id="package-animation" width="850" height="850" style="width: 425px; height: 425px;"></canvas>
-        
-        <img src="../mainscreen.png" alt="Total Sweet Packaging" class="package-fallback/>
+
+        <canvas class="animation" id="package-animation" width="850" height="850" style="width: 425px; height: 425px;">
+            
+        <img src="../mainscreen.png" alt="Total Sweet Packaging" class="package-fallback />
+</canvas>
+
             <![endif]-->
 
-        <noscript>
-         <img src="../logo.png" alt="Total Sweet Packaging" style="display: block; margin: 0 auto; position: relative; bottom:-70px;" /> 
-        </noscript>
+<noscript>
+         <img src= "../mainscreen" alt ="Total Sweet Packaging" style="display: block; margin: 0 auto; position: relative; bottom:-70px;" /> 
+</noscript>
     </div>
 </div>
-update
+
 
     
 
@@ -822,21 +830,7 @@ update
         <!-- ./Site Footer -->
 
         <!-- Scripts -->
-                <script data-main="/js/main.js?v=1655394850" src="js/vendor/require.js"></script>
-
-        <script src="../www.google.com/recaptcha/api6eb3.js?render=6LcStukUAAAAADjFtZOvDEUidVtwAQCallQWmOf1"></script>
-                <script>
-                grecaptcha.ready(function() {
-                                            // do request for recaptcha token
-                                            // response is promise with passed token
-                                            grecaptcha.execute('6LcStukUAAAAADjFtZOvDEUidVtwAQCallQWmOf1', {action:'root_validate_captcha'})
-                                                      .then(function(token) {
-                                                          var response = document.querySelector('input[name="gresponse"]');
-                                                          response.value = token;
-                                                      });
-                                        });
-                </script>                <!-- ./Scripts -->
-
+               
         
             </body>
 
